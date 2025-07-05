@@ -64,5 +64,5 @@ Interactive Power BI dashboard includes:
 This project is licensed under the MIT License.
 
 ---
-> 📍 Author: Rachit Patwa 🔗 LinkedIn: www.linkedin.com/in/rachitpatwa1076
-
+> 📍 Author: Rachit Patwa  🔗 LinkedIn: www.linkedin.com/in/rachitpatwa1076
+> ✨ Built with curiosity, coffee, and a lot of debugging.
