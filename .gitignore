@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.xlsx
+
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Python virtual environments
+*.egg-info/
+*.egg
+*.whl
+
+# Model files
+*.pkl
+*.h5
+*.joblib
+
+# Colab-specific
+*.nbconvert.ipynb
+
+# System files
+.DS_Store
+Thumbs.db
